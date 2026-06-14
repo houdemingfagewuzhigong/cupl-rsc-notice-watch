@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+  <rect width="1200" height="620" fill="#f5f7fb"/>
+  <rect x="54" y="54" width="1092" height="512" rx="22" fill="#fff" stroke="#d8e0ec"/>
+  <text x="90" y="110" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#17202a">CUPL RSC Notice Watch Architecture</text>
+  <text x="90" y="148" font-family="Arial, sans-serif" font-size="16" fill="#667085">Public notices are fetched, normalized, archived, and rendered as a static dashboard.</text>
+  <g font-family="Arial, sans-serif">
+    <rect x="92" y="222" width="220" height="120" rx="16" fill="#eef3fb" stroke="#cdd8e8"/>
+    <text x="122" y="270" font-size="22" font-weight="700" fill="#1e4f9a">rsc.cupl.edu.cn</text>
+    <text x="122" y="304" font-size="15" fill="#667085">tzgg / zpxx / rszc</text>
+    <rect x="392" y="222" width="220" height="120" rx="16" fill="#fff8e9" stroke="#ead6a7"/>
+    <text x="422" y="270" font-size="22" font-weight="700" fill="#9a5d00">scraper.py</text>
+    <text x="422" y="304" font-size="15" fill="#667085">challenge + parser</text>
+    <rect x="692" y="222" width="220" height="120" rx="16" fill="#eef8f6" stroke="#badfd9"/>
+    <text x="722" y="270" font-size="22" font-weight="700" fill="#0f766e">data/ archive</text>
+    <text x="722" y="304" font-size="15" fill="#667085">JSON / CSV / history</text>
+    <rect x="392" y="406" width="220" height="120" rx="16" fill="#fdf1f3" stroke="#e6c0c6"/>
+    <text x="422" y="454" font-size="22" font-weight="700" fill="#a61b29">GitHub Actions</text>
+    <text x="422" y="488" font-size="15" fill="#667085">daily scheduled update</text>
+    <rect x="692" y="406" width="220" height="120" rx="16" fill="#f3f5f9" stroke="#d8e0ec"/>
+    <text x="722" y="454" font-size="22" font-weight="700" fill="#17202a">static dashboard</text>
+    <text x="722" y="488" font-size="15" fill="#667085">search / filter / export</text>
+    <path d="M312 282H392" stroke="#1e4f9a" stroke-width="4" marker-end="url(#arrow)"/>
+    <path d="M612 282H692" stroke="#1e4f9a" stroke-width="4" marker-end="url(#arrow)"/>
+    <path d="M802 342V406" stroke="#1e4f9a" stroke-width="4" marker-end="url(#arrow)"/>
+    <path d="M502 406V342" stroke="#1e4f9a" stroke-width="4" marker-end="url(#arrow)"/>
+    <path d="M612 466H692" stroke="#1e4f9a" stroke-width="4" marker-end="url(#arrow)"/>
+  </g>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#1e4f9a"/>
+    </marker>
+  </defs>
+</svg>

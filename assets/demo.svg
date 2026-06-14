@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+<rect width="1200" height="720" fill="#f5f7fb"/>
+<rect x="54" y="48" width="1092" height="624" rx="24" fill="#fff" stroke="#d8e0ec"/>
+<text x="86" y="110" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#17202a">法大人事处通知公告观察站</text>
+<text x="86" y="148" font-family="Arial, sans-serif" font-size="18" fill="#667085">每日自动抓取通知公告、招聘信息、人事政策，并保存历史 JSON / CSV。</text>
+<rect x="86" y="176" width="1028" height="286" rx="18" fill="#f8fafc" stroke="#d8e0ec"/>
+<text x="86" y="205" font-family="Arial, sans-serif" font-size="20" fill="#17202a">2026-06-11  招聘信息  中国政法大学2026年度拟招聘人员公示（第十批）</text><text x="86" y="253" font-family="Arial, sans-serif" font-size="20" fill="#17202a">2026-06-10  通知公告  人事处端午节值班安排表</text><text x="86" y="301" font-family="Arial, sans-serif" font-size="20" fill="#17202a">2026-04-16  通知公告  关于办理《北京市积分落户申报》业务的通知</text><text x="86" y="349" font-family="Arial, sans-serif" font-size="20" fill="#17202a">2026-01-11  招聘信息  人才引进系统尚未开通，报名方式点此</text><text x="86" y="397" font-family="Arial, sans-serif" font-size="20" fill="#17202a">2026-01-01  招聘信息  中国政法大学2026年度辅导员、其他专业技术岗位招聘启事</text>
+<rect x="86" y="504" width="250" height="92" rx="16" fill="#eef3fb" stroke="#cdd8e8"/>
+<text x="116" y="540" font-family="Arial, sans-serif" font-size="16" fill="#667085">当前收录</text>
+<text x="116" y="578" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#1e4f9a">24</text>
+<rect x="366" y="504" width="250" height="92" rx="16" fill="#eef8f6" stroke="#badfd9"/>
+<text x="396" y="540" font-family="Arial, sans-serif" font-size="16" fill="#667085">覆盖栏目</text>
+<text x="396" y="578" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#0f766e">3</text>
+<rect x="646" y="504" width="468" height="92" rx="16" fill="#fff8e9" stroke="#ead6a7"/>
+<text x="676" y="540" font-family="Arial, sans-serif" font-size="16" fill="#667085">最新日期</text>
+<text x="676" y="578" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#9a5d00">2026-06-11</text>
+</svg>

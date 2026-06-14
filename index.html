@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>法大人事处通知公告观察站</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <div>
+          <p class="eyebrow">CUPL Human Resources Notice Watch</p>
+          <h1>法大人事处通知公告，每天自动归档。</h1>
+          <p class="subtitle">聚合通知公告、招聘信息、人事政策等公开栏目，保留历史记录，支持关键词检索、栏目筛选和 CSV/JSON 数据导出。</p>
+          <div class="actions">
+            <a class="button primary" href="data/notices.json">下载 JSON</a>
+            <a class="button ghost" href="data/notices.csv">下载 CSV</a>
+          </div>
+        </div>
+        <div class="hero-card">
+          <span>当前收录</span>
+          <strong id="totalCount">0</strong>
+          <span id="updatedAt">等待数据加载</span>
+        </div>
+      </section>
+
+      <section class="toolbar">
+        <input id="search" type="search" placeholder="搜索标题、摘要或栏目..." />
+        <select id="sectionFilter">
+          <option value="">全部栏目</option>
+        </select>
+      </section>
+
+      <section class="stats" id="stats"></section>
+      <section class="notice-list" id="noticeList"></section>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>
